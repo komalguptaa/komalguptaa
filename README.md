@@ -17,7 +17,7 @@
 </a>
 
 
-<br />
+<br/>
 
 Hi, Myself Komal Gupta, a passionate Web Developer  from Kolkata, India  with specialization in HTML,CSS and JavaScript . Each site i develop,ensures latest development within it.
 A dedicated and hard working undergraduate engineering student.Enthusiastic to explore new ideas and expect an exciting future.
