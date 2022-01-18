@@ -26,7 +26,7 @@ A dedicated and hard working undergraduate engineering student.Enthusiastic to e
 
 **More about me:**
 
-- 🌱 I’m currently learning Cloud Computing.
+- 🌱 I’m currently learning Dynamic Programming.
 - 💬 Curious to learn new things, to meet new people,share ideas.
 - 📫 How to reach me: komalguptajyoti@gmail.com
 - 📝[Resume]
