@@ -19,16 +19,18 @@
 
 <br/>
 
-Hi, Myself Komal Gupta, a passionate Web Developer  from Kolkata, India  with specialization in HTML,CSS and JavaScript . Each site i develop,ensures latest development within it.
-A dedicated and hard working undergraduate engineering student.Enthusiastic to explore new ideas and expect an exciting future.
              
 
 
-**More about me:**
+**About me:**
 
 - 🌱 I’m currently learning Dynamic Programming.
 - 💬 Curious to learn new things, to meet new people,share ideas.
 - 📫 How to reach me: komalguptajyoti@gmail.com
-- 📝[Resume]
+
+### Connect With Me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' title='LinkedIn'>](linkedin.com/in/komal-gupta-104181191/) &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40' title='Leetcode'>](https://leetcode.com/komalguptajyoti/)&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40' title='CodeChef'>](https://www.codechef.com/users/komal_0522)  
+
 
 
