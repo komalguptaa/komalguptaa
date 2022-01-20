@@ -23,3 +23,4 @@
 
 
 
+![snake gif](https://github.com/komalguptaa/komalguptaa/blob/output/github-contribution-grid-snake.gif)
